@@ -1,0 +1,1 @@
+Projeto de uma SPA aprendida no curso Explorer da Rocketseat, com foco em saber como funciona uma SPA e as rotas. Também foi feito a criação de um servidor com nodejs.
